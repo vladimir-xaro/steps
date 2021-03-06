@@ -1,0 +1,13 @@
+.DS_Store
+
+/dev
+/examples
+/node_modules
+/tests
+/webpack
+
+/src/index.dev.ts
+
+.env
+package-lock.json
+tsconfig.json
